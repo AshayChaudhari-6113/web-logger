@@ -45,7 +45,7 @@ To set up the Virology Research Data Logger on your local environment, follow th
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ketanmore2002/web-logger-2.git
+   git clone https://github.com/AshayChaudhari-6113/web-logger.git
    ```
 
 2. **Navigate to the Project Directory:**
